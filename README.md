@@ -63,19 +63,6 @@ Memory Architect/
 | `Door.cs`             | Raycasts ahead of the camera and fires the interact action           |
 | `DoorInteraction.cs`  | Hinge rotation, open/close state, and the on-screen interact prompt   |
 
-## Team
-
-Memory Architect is a team project. This repository is Daniela Munteanu's copy of the
-game, but the work in it is not hers alone:
-
-- **Daniela Munteanu** — hallway scene, room 1 and room 3 design, door opening and player
-  controller, environment art
-- **Nedelcu Radu** — initial Unity project structure and `.gitignore`, numeric-code safe
-  interaction
-- **Morar Mircea Mihnea** — repository setup, branch integration
-
-The original team repository lives on GitLab under the `memory-architect` group.
-
 ## Third-party assets
 
 The `Assets/Models` and `Assets/Texture` folders contain third-party models and PBR
